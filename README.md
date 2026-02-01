@@ -1,2 +1,7 @@
-# Marketing_Analytics
-Business Problem : Despite launching multiple online marketing campaigns, ShopEasy faces: 1. Reduced customer engagement 2. Decreased conversion rates 3. High marketing spend with low ROI 4. Lack of structured customer feedback analysis. The goal is to diagnose the root causes and provide data-backed recommendations.
+Used SQL to extract, join, and aggregate customer, transaction, campaign, and feedback data; calculated KPIs such as conversion rate, ROI, and CLV.
+
+Performed data cleaning and exploratory analysis in Python to identify funnel drop-offs, customer segments, and channel-level performance; analyzed customer feedback for recurring issues.
+
+Built interactive Power BI dashboards to visualize campaign ROI, conversion funnels, engagement trends, and customer segmentation.
+
+Presented insights and actionable recommendations in a PowerPoint deck for business stakeholders.
